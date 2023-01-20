@@ -1,19 +1,30 @@
 # 2022--2023-Heidelberg-Team-1
 
-## Team members: 
+## Team members:
 
 - Anastasiya Vladimirova
 - Wangjun Hu
 - Duc Thien Bui
-- Darius Szablowski 
+- Darius Szablowski
 
 ## Tools used in our pipeline:
 
+### Binding Pocket prediction:
+
+- Fpocket
+- PrankWeb [a link](https://prankweb.cz/)
+
+### Toxicology prediction:
 - eToxPred
-- Gromacs
+
+### Docking Tools:
 - AutoDock Vina
 - EnzyDock
 - Schrödinger suite
   - Glide
-- AutoGrow 4
 
+### MD-simulations
+- Gromacs
+
+### Ligand Optimization:
+- AutoGrow 4
